@@ -23,6 +23,7 @@
             android:layout_marginBottom="8dp"/>
 
         <TextView
+            android:id="@+id/tv_Username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/user_Name"
@@ -152,17 +153,20 @@
                 android:text="Masukkan jumlah pengeluaran :" />
 
             <EditText
+                android:id="@+id/et_Inputpengeluaran"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="1.000.000"
                 android:textColorHint="#80729F" />
 
             <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_Submit"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:background="@drawable/bg_container"
                 android:textColor="@color/dark_Purple"
+                android:textSize="16sp"
                 android:text="Simpan"/>
 
 
