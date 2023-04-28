@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Catat_Pengeluaran_app</string>
+    <string name="app_Title">Catat Pengeluaran</string>
+    <string name="user_Name">Zein Nur Ichsan</string>
+    
+    <string-array name="jenisPengeluaran">
+        <item>Pengeluaran Rutin</item>
+        <item>Pengeluaran Hiburan</item>
+        <item>Pengeluaran Kesehatan</item>
+        <item>Pengeluaran Darurat</item>
+    </string-array>
+</resources>
