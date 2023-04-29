@@ -102,7 +102,8 @@
             <Spinner
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:entries="@array/jenisPengeluaran" />
+                android:entries="@array/jenisPengeluaran"
+                />
 
         </LinearLayout>
 
@@ -158,6 +159,7 @@
                 android:layout_height="wrap_content"
                 android:hint="1.000.000"
                 android:textColorHint="#80729F"
+                android:inputType="number"
                 android:textColor="@color/lightBlue"/>
 
             <androidx.appcompat.widget.AppCompatButton
