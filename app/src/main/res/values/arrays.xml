@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pekerjaan">
+        <item>Pilihan</item>
+        <item>PNS</item>
+        <item>Buruh</item>
+        <item>Pekerja kantor</item>
+        <item>Pelajar atau  mahasiswa</item>
+        <item>Lainnya</item>
+    </string-array>
+
+</resources>
